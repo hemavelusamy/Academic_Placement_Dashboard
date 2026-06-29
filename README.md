@@ -1,4 +1,4 @@
-<img width="1376" height="768" alt="ER DIAGRAM" src="https://github.com/user-attachments/assets/74803698-8009-4b7a-9aae-ceea0a5d5219" /># Academic Placement Dashboard
+# Academic Placement Dashboard
 
 ## Project Overview
 This project is an advanced **Academic Placement Dashboard** designed to bridge the gap between academic performance and placement success. Using **Machine Learning (XGBoost)**, the system predicts student placement probability, while **Explainable AI (SHAP)** provides transparent insights into the underlying factors influencing these predictions.
@@ -22,8 +22,8 @@ This project is an advanced **Academic Placement Dashboard** designed to bridge 
 
 ## Project Architecture
 ## ER diagram.
-![Architecture](![Uploading ER <img width="1376" height="768" alt="ER DIAGRAM" src="https://github.com/user-attachments/assets/30459d82-8383-4909-8993-0ffc018726ce" />
-DIAGRAM.png…])
+( <img width="1376" height="768" alt="ER DIAGRAM" src="https://github.com/user-attachments/assets/30459d82-8383-4909-8993-0ffc018726ce" />
+)
 
 
 ## Installation & Usage
