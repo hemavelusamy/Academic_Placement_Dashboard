@@ -22,8 +22,11 @@ This project is an advanced **Academic Placement Dashboard** designed to bridge 
 
 ## Project Architecture
 ## ER diagram.
-( <img width="1376" height="768" alt="ER DIAGRAM" src="https://github.com/user-attachments/assets/30459d82-8383-4909-8993-0ffc018726ce" />
-)
+<img width="1376" height="768" alt="ER DIAGRAM" src="https://github.com/user-attachments/assets/30459d82-8383-4909-8993-0ffc018726ce" />
+
+## USE CASE DIAGRAM 
+<img width="1010" height="765" alt="Screenshot_20260610-210416~2" src="https://github.com/user-attachments/assets/83cb304f-f61a-4ce9-878d-5721c4210e07" />
+
 
 
 ## Installation & Usage
