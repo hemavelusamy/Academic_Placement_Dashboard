@@ -1,4 +1,4 @@
-# Academic Placement Dashboard
+# XAI FOR ACADEMIC RISKS AND PLACEMENT SUCCESS 
 
 ## Project Overview
 This project is an advanced **Academic Placement Dashboard** designed to bridge the gap between academic performance and placement success. Using **Machine Learning (XGBoost)**, the system predicts student placement probability, while **Explainable AI (SHAP)** provides transparent insights into the underlying factors influencing these predictions.
