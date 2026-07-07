@@ -30,7 +30,7 @@ This project is an advanced **Academic Placement Dashboard** designed to bridge 
 
 
 ## Installation & Usage
-1. Clone this repository: `git clone https://github.com/hemavelusamy/Academic_Placement_Dashboard.git`
+1. Clone this repository: `git clone https://github.com/hemavelusamy/XAI_FOR_ACADEMIC_RISKS_AND_PLACEMENT_SUCCESS.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the application: `python manage.py runserver`
 
