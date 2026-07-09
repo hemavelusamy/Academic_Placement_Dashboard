@@ -37,3 +37,6 @@ This project is an advanced **Academic Placement Dashboard** designed to bridge 
 ## Future Scope
 - Integration of real-time student attendance monitoring.
 - Implementation of automated email alerts for at-risk students and faculty.
+
+## Project demo
+-  https://drive.google.com/file/d/1yOGrJZcW5r6N1lNBZRKJQbtehbAcwId-/view?usp=drivesdk
